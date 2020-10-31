@@ -10,5 +10,17 @@
         "brandName":"Board Infinity",
         "title":"Project Management",
         "credLink":"https://drive.google.com/file/d/1PdJTtGEVE0QLaDDnFDP9aWRxWPstRqTd/view?usp=sharing"
+    },
+    {
+        "brand":"https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg",
+        "brandName":"University of Michigan",
+        "title":"Programming for Everybody (Getting Started with Python)",
+        "credLink":"https://www.coursera.org/account/accomplishments/certificate/YWARV9BBZHR9"
+    },
+    {
+        "brand":"https://vectorlogoseek.com/datacamp-vector-logo-svg/",
+        "brandName":"DataCamp",
+        "title":"Intermediate Python for Data Science",
+        "credLink":"https://www.datacamp.com/statement-of-accomplishment/course/ab9d397177b60ee2f1946bee35f174603c9ca5bd"
     }
 ]
